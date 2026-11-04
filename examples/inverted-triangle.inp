@@ -1,0 +1,7 @@
+** Synthetic failure: clockwise connectivity.
+*Node
+1, 0, 0
+2, 1, 0
+3, 0, 1
+*Element, type=CPE3
+1, 1, 3, 2
