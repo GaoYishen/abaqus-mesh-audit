@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="388.8pt" viewBox="0 0 864 388.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-06T20:30:01.220243</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 388.8 
+L 864 388.8 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f3f6fb"/>
+  </g>
+  <g id="patch_2">
+   <path d="M 43.2 330.48 
+L 371.52 330.48 
+Q 388.8 330.48 388.8 322.704 
+L 388.8 97.2 
+Q 388.8 89.424 371.52 89.424 
+L 43.2 89.424 
+Q 25.92 89.424 25.92 97.2 
+L 25.92 322.704 
+Q 25.92 330.48 43.2 330.48 
+z
+" style="fill: #ffffff; stroke: #dae2ef; stroke-linejoin: miter"/>
+  </g>
+  <g id="patch_3">
+   <path d="M 414.72 330.48 
+L 820.8 330.48 
+Q 838.08 330.48 838.08 322.704 
+L 838.08 97.2 
+Q 838.08 89.424 820.8 89.424 
+L 414.72 89.424 
+Q 397.44 89.424 397.44 97.2 
+L 397.44 322.704 
+Q 397.44 330.48 414.72 330.48 
+z
+" style="fill: #ffffff; stroke: #dae2ef; stroke-linejoin: miter"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_4">
+    <path d="M 153.9648 267.624 
+L 153.9648 163.944 
+L 257.6448 267.624 
+z
+" clip-path="url(#p96cf82a8d4)" style="fill: #fce3e6; stroke: #c53a4b; stroke-width: 2.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <defs>
+     <path id="ma25689e5b2" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #122641"/>
+    </defs>
+    <g clip-path="url(#p96cf82a8d4)">
+     <use xlink:href="#ma25689e5b2" x="153.9648" y="267.624" style="fill: #122641; stroke: #122641"/>
+    </g>
+   </g>
+   <g id="line2d_2">
+    <g clip-path="url(#p96cf82a8d4)">
+     <use xlink:href="#ma25689e5b2" x="153.9648" y="163.944" style="fill: #122641; stroke: #122641"/>
+    </g>
+   </g>
+   <g id="line2d_3">
+    <g clip-path="url(#p96cf82a8d4)">
+     <use xlink:href="#ma25689e5b2" x="257.6448" y="267.624" style="fill: #122641; stroke: #122641"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #122641" x="143.5968" y="283.176" transform="rotate(-0 143.5968 283.176)">1 (0, 0)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #122641" x="143.5968" y="154.6128" transform="rotate(-0 143.5968 154.6128)">3 (0, 1)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #122641" x="242.0928" y="283.176" transform="rotate(-0 242.0928 283.176)">2 (1, 0)</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 153.9648 242.811548 
+Q 153.9648 218.892211 153.9648 197.208942 
+" style="fill: none; stroke: #b13242; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 151.9648 201.208942 
+L 153.9648 197.208942 
+L 155.9648 201.208942 
+" style="fill: none; stroke: #b13242; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 178.186205 188.165405 
+Q 200.619098 210.598298 221.470853 231.450053 
+" style="fill: none; stroke: #b13242; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 220.056639 227.207412 
+L 221.470853 231.450053 
+L 217.228212 230.035839 
+" style="fill: none; stroke: #b13242; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 229.721948 267.624 
+Q 205.802611 267.624 184.119342 267.624 
+" style="fill: none; stroke: #b13242; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 188.119342 269.624 
+L 184.119342 267.624 
+L 188.119342 265.624 
+" style="fill: none; stroke: #b13242; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b13242" x="162.2592" y="253.1088" transform="rotate(-0 162.2592 253.1088)">Element 1</text>
+   </g>
+  </g>
+  <g id="text_5">
+   <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #122641" x="38.88" y="38.88" transform="rotate(-0 38.88 38.88)">Find the mesh issue. Locate the element.</text>
+  </g>
+  <g id="text_6">
+   <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #465c77" x="38.88" y="64.152" transform="rotate(-0 38.88 64.152)">2D finite element mesh checks | Python CLI + Agent Skill</text>
+  </g>
+  <g id="text_7">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #465c77" x="56.16" y="118.584" transform="rotate(-0 56.16 118.584)">INPUT: CLOCKWISE TRIANGLE</text>
+  </g>
+  <g id="text_8">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b13242" x="427.68" y="118.584" transform="rotate(-0 427.68 118.584)">REPORT: ELEMENT 1 FLAGGED</text>
+  </g>
+  <g id="text_9">
+   <text style="font-weight: 700; font-size: 18px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #b13242" x="427.68" y="167.184" transform="rotate(-0 427.68 167.184)">audit_pass: false</text>
+  </g>
+  <g id="text_10">
+   <text style="font-size: 16px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #122641" x="427.68" y="209.952" transform="rotate(-0 427.68 209.952)">element_id: 1</text>
+  </g>
+  <g id="text_11">
+   <text style="font-size: 16px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #122641" x="427.68" y="241.056" transform="rotate(-0 427.68 241.056)">signed_area: -0.5</text>
+  </g>
+  <g id="text_12">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans Mono'; text-anchor: start; fill: #b13242" x="427.68" y="279.936" transform="rotate(-0 427.68 279.936)">nonpositive_or_degenerate_area</text>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #465c77" x="427.68" y="311.04" transform="rotate(-0 427.68 311.04)">JSON report with element IDs and file SHA-256</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #465c77" x="38.88" y="359.64" transform="rotate(-0 38.88 359.64)">Illustration from examples/inverted-triangle.inp | CLI output: JSON</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p96cf82a8d4">
+   <rect x="125.9712" y="138.024" width="162.7776" height="155.52"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -4,9 +4,17 @@
 
 Read-only 2D finite element mesh quality checks for Abaqus INP files: triangles, quadrilaterals, Jacobians, duplicate nodes, and connectivity.
 
+[中文](README.md) · [English](README.en.md) · [从错误网格到检查报告：完整教程](docs/mesh-quality-tutorial.zh-CN.md)
+
 [![Tests](https://github.com/GaoYishen/abaqus-mesh-audit/actions/workflows/tests.yml/badge.svg)](https://github.com/GaoYishen/abaqus-mesh-audit/actions/workflows/tests.yml) ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 读取 Abaqus `.inp`，把网格问题定位到具体节点或单元，输出 JSON 报告。只需 Python 3.10+ 标准库，可独立运行，也可交给 AI 助手作为 Agent Skill 使用。
+
+![二维有限元网格检查示例：顺时针连接的三角形被定位为第1号异常单元，报告有向面积为负](docs/assets/mesh-audit-preview.png)
+
+*根据仓库倒置三角形示例绘制的说明图；命令行工具输出 JSON 检查报告。*
+
+**这个工具对你有帮助？欢迎点个 ⭐，方便以后找到。希望增加检查项，或遇到输入格式问题，欢迎 [提交 Issue](https://github.com/GaoYishen/abaqus-mesh-audit/issues)。**
 
 ## 它能帮你检查什么？
 
